@@ -1,8 +1,8 @@
-streamlit>=1.22
+streamlit
+streamlit-webrtc
+av
+numpy
+soundfile
 speechrecognition
 gTTS
 pydub
-streamlit-webrtc
-soundfile
-numpy
-av
